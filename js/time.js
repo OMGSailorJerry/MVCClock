@@ -34,6 +34,6 @@ Time.prototype.startLoop = function (interval) {
 
 // Time.prototype.stopLoop = function () {
 //     clearInterval(this.loopHendler);
-// };
+// };//
 
 var time = new Time();
